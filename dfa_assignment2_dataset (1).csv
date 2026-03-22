@@ -1,0 +1,251 @@
+Transaction_ID;Date;Product;Region;Salesperson;Units_Sold;Unit_Price
+T1000;2025/01/01;Water;Gauteng;Sarah;6;52.44
+T1001;2025/01/02;Snacks;limpopo;  Sarah;18;47.07
+T1002;2025/01/03;Juice;Limpopo; Mary;19;41.4
+T1003;2025/01/04;Snacks;Western Cape;David;5;93.66
+T1004;2025/01/05;Snacks;Limpopo;John;15;84.76
+T1005;2025/01/06;Tea;Limpopo;Mary;2;96.85
+T1006;2025/01/07;Juice;Western Cape;Sarah;10;21.19
+T1007;2025/01/08;Juice;KwaZulu-Natal;Alice;18;75.78
+T1008;2025/01/09;Juice;Limpopo;sarah;13;94.45
+T1009;2025/01/10;Snacks;Western Cape;David;5;26.31
+T1010;2025/01/11;Water;Gauteng;Sarah;1;15.98
+T1011;2025/01/12;Juice;KwaZulu-Natal;Alice;1;76.7
+T1012;2025/01/13;Snacks;Gauteng;David;18;61.7
+T1013;2025/01/14;Tea;Gauteng;Sarah;15;85.76
+T1014;2025/01/15;Water;Western Cape;David;17;22.58
+T1015;2025/01/16;Tea;Limpopo; John;11;81.57
+T1016;2025/01/17;Water;Western Cape;John;17;28.15
+T1017;2025/01/18;Snacks;western Cape;Sarah;13;24.73
+T1018;2025/01/19;Coffee;Western Cape;David;1;24.78
+T1019;2025/01/20;Water;Western Cape;Alice;2;83.31
+T1020;2025/01/21;Tea;KwaZulu-Natal;Sarah;9;69.87
+T1021;2025/01/22;Snacks;Limpopo;John;3;57.08
+T1022;2025/01/23;Water;Gauteng;John;1;42.29
+T1023;2025/01/24;Coffee;Gauteng;Sarah;16;88.95
+T1024;2025/01/25;Coffee;Limpopo;David;6;45.32
+T1025;2025/01/26;Juice;Gauteng;John;17;83.49
+T1026;2025/01/27;Juice;Limpopo;David;5;49.52
+T1027;2025/01/28;Tea;Gauteng;John;5;43.92
+T1028;2025/01/29;Water;Western Cape;John;6;51.64
+T1029;2025/01/30;Water;Gauteng;Mary;3;37.12
+T1030;2025/01/31;Juice;Limpopo;John;5;77.28
+T1031;2025/02/01;Water;Limpopo;Alice;5;55.24
+T1032;2025/02/02;Water;Limpopo;Sarah;10;30.9
+T1033;2025/02/03;Coffee;Limpopo;Sarah;10;90.96
+T1034;2025/02/04;Juice;Limpopo;David;19;44.55
+T1035;2025/02/05;Snacks;KwaZulu-Natal;John;17;58.92
+T1036;2025/02/06;Juice;KwaZulu-Natal;Alice;14;91.58
+T1037;2025/02/07;Snacks;Gauteng;David;9;66.18
+T1038;2025/02/08;Coffee;Limpopo;Mary;14;20.52
+T1039;2025/02/09;Tea;Gauteng;David;1;94.58
+T1040;2025/02/10;Water;Limpopo;David;19;66.49
+T1041;2025/02/11;Coffee;Limpopo;John;13;40.14
+T1042;2025/02/12;Water;KwaZulu-Natal;Mary;13;22.53
+T1043;2025/02/13;Tea;KwaZulu-Natal;David;4;81.46
+T1044;2025/02/14;Tea;Western Cape;Alice;1;65.81
+T1045;2025/02/15;Coffee;KwaZulu-Natal;Alice;17;58.01
+T1046;2025/02/16;Tea;Western Cape;Sarah;8;90.45
+T1047;2025/02/17;Snacks;Western Cape;Mary;2;80.97
+T1048;2025/02/18;Tea;Western Cape;Mary;8;23.65
+T1049;2025/02/19;Water;Western Cape;Sarah;7;38.05
+T1050;2025/02/20;Water;Western Cape;David;2;32.36
+T1051;2025/02/21;Water;Gauteng;Mary;3;76.96
+T1052;2025/02/22;Water;KwaZulu-Natal;Alice;18;13.02
+T1053;2025/02/23;Snacks;Western Cape;Alice;12;61.29
+T1054;2025/02/24;Juice;Limpopo;John;1;78.62
+T1055;2025/02/25;Coffee;KwaZulu-Natal;Mary;12;88.91
+T1056;2025/02/26;Water;KwaZulu-Natal;David;5;40.79
+T1057;2025/02/27;Tea;Western Cape;Sarah;17;83.91
+T1058;2025/02/28;Water;Gauteng;Sarah;16;19.96
+T1059;2025/03/01;Tea;Western Cape;David;15;86.18
+T1060;2025/03/02;Tea;Gauteng;John;15;21.47
+T1061;2025/03/03;Water;Limpopo;Sarah;5;45.76
+T1062;2025/03/04;Snacks;KwaZulu-Natal;Mary;14;81.76
+T1063;2025/03/05;Tea;Limpopo;John;2;23.49
+T1064;2025/03/06;Tea;Gauteng;Mary;11;30.63
+T1065;2025/03/07;Water;Gauteng;Alice;19;75.0
+T1066;2025/03/08;Tea;Limpopo;John;7;74.8
+T1067;2025/03/09;Tea;Gauteng;Sarah;6;67.7
+T1068;2025/03/10;Water;Limpopo;John;2;72.46
+T1069;2025/03/11;Water;KwaZulu-Natal;John;6;58.85
+T1070;2025/03/12;Coffee;Limpopo;John;18;32.66
+T1071;2025/03/13;Snacks;KwaZulu-Natal;John;2;41.11
+T1072;2025/03/14;Snacks;Limpopo;Mary;18;26.34
+T1073;2025/03/15;Tea;Gauteng;Alice;15;91.76
+T1074;2025/03/16;Snacks;Limpopo;  David;19;62.51
+T1075;2025/03/17;Tea;   Gauteng;John;2;46.08
+T1076;2025/03/18;Coffee;  Limpopo;   Sarah;6;51.58
+T1077;2025/03/19;Water;Limpopo;John;1;95.26
+T1078;2025/03/20;Water;Western Cape;Sarah;15;23.8
+T1079;2025/03/21;Water;Gauteng;Mary;10;62.76
+T1080;2025/03/22;Snacks;Western Cape;Sarah;19;55.53
+T1081;2025/03/23;Coffee;Gauteng;David;17;65.03
+T1082;2025/03/24;Snacks;   Western Cape;Alice;5;11.63
+T1083;2025/03/25;Snacks;   KwaZulu-Natal;Sarah;4;88.49
+T1084;2025/03/26;Coffee;Limpopo;Sarah;10;93.89
+T1085;2025/03/27;Coffee;Gauteng;Alice;17;60.86
+T1086;2025/03/28;Coffee;  Gauteng;David;10;72.7
+T1087;2025/03/29;Coffee;Limpopo;John;17;93.02
+T1088;2025/03/30;Water;Gauteng;Sarah;5;73.65
+T1089;2025/03/31;Juice;Gauteng;Alice;2;23.73
+T1090;2025/04/01;Juice;Western Cape;Mary;6;61.87
+T1091;2025/04/02;Coffee;Gauteng;Alice;2;64.6
+T1092;2025/04/03;Juice;  KwaZulu-Natal;Mary;13;48.17
+T1093;2025/04/04;Juice;KwaZulu-Natal;   David;11;76.28
+T1094;2025/04/05;Coffee;Limpopo;John;11;94.09
+T1095;2025/04/06;Juice;Gauteng;Alice;16;93.3
+T1096;2025/04/07;Snacks;Limpopo;Sarah;11;50.58
+T1097;2025/04/08;Tea;KwaZulu-Natal;David;19;20.19
+T1098;2025/04/09;Tea;Gauteng;Alice;15;98.64
+T1099;2025/04/10;Coffee;Gauteng;Sarah;16;85.5
+T1100;2025/04/11;Water;Limpopo;Alice;11;21.22
+T1101;2025/04/12;Coffee;KwaZulu-Natal;Mary;16;92.88
+T1102;2025/04/13;Water;Gauteng;Alice;8;88.29
+T1103;2025/04/14;Tea;Limpopo;Alice;4;56.7
+T1104;2025/04/15;Coffee;KwaZulu-Natal;Alice;8;63.21
+T1105;2025/04/16;Snacks;Limpopo;David;4;45.91
+T1106;2025/04/17;Juice;Western Cape;Alice;3;14.93
+T1107;2025/04/18;Water;Gauteng;Sarah;3;40.17
+T1108;2025/04/19;Juice;Western Cape;Mary;18;82.26
+T1109;2025/04/20;Juice;KwaZulu-Natal;Mary;19;10.42
+T1110;2025/04/21;Coffee;Western Cape;Alice;19;40.01
+T1111;2025/04/22;Juice;Western Cape;David;5;45.84
+T1112;2025/04/23;Snacks;KwaZulu-Natal;David;18;58.37
+T1113;2025/04/24;Juice;Limpopo;Sarah;10;92.79
+T1114;2025/04/25;Coffee;Western Cape;Alice;6;41.17
+T1115;2025/04/26;Snacks;Limpopo;Mary;1;41.23
+T1116;2025/04/27;Tea;Western Cape;David;5;76.38
+T1117;2025/04/28;Juice;Limpopo;Alice;9;50.7
+T1118;2025/04/29;Coffee;KwaZulu-Natal;David;12;30.21
+T1119;2025/04/30;Tea;Western Cape;David;14;50.72
+T1120;2025/05/01;Tea;KwaZulu-Natal;Mary;2;22.68
+T1121;2025/05/02;Water;Western Cape;John;17;25.87
+T1122;2025/05/03;Snacks;KwaZulu-Natal;Sarah;14;54.85
+T1123;2025/05/04;Juice;KwaZulu-Natal;Sarah;13;47.7
+T1124;2025/05/05;Coffee;Western Cape;Mary;9;92.34
+T1125;2025/05/06;Water;Western Cape;David;15;42.62
+T1126;2025/05/07;Snacks;Western Cape;Alice;15;62.25
+T1127;2025/05/08;Water;Gauteng;David;11;66.9
+T1128;2025/05/09;Snacks;Limpopo;Mary;16;11.18
+T1129;2025/05/10;Snacks;Gauteng;Sarah;17;69.72
+T1130;2025/05/11;Juice;Gauteng;David;4;26.02
+T1131;2025/05/12;Snacks;KwaZulu-Natal;Sarah;1;96.5
+T1132;2025/05/13;Water;Western Cape;Alice;8;23.38
+T1133;2025/05/14;Snacks;Limpopo;Sarah;17;47.32
+T1134;2025/05/15;Juice;KwaZulu-Natal;Sarah;3;17.68
+T1135;2025/05/16;Juice;Gauteng;John;15;99.72
+T1136;2025/05/17;Water;Western Cape;John;15;55.2
+T1137;2025/05/18;Tea;KwaZulu-Natal;John;14;63.58
+T1138;2025/05/19;Tea;Western Cape;Sarah;14;16.04
+T1139;2025/05/20;Snacks;KwaZulu-Natal;Mary;2;77.5
+T1140;2025/05/21;Coffee;Western Cape;Sarah;13;28.89
+T1141;2025/05/22;Snacks;Gauteng;Mary;14;90.82
+T1142;2025/05/23;Water;Limpopo;Mary;19;28.46
+T1143;2025/05/24;Water;Gauteng;John;7;27.16
+T1144;2025/05/25;Water;Limpopo;David;3;13.29
+T1145;2025/05/26;Water;Western Cape;Alice;15;52.49
+T1146;2025/05/27;Water;KwaZulu-Natal;John;14;60.84
+T1147;2025/05/28;Juice;Gauteng;John;11;15.91
+T1148;2025/05/29;Tea;Limpopo;David;15;79.8
+T1149;2025/05/30;Water;Gauteng;Alice;13;50.8
+T1150;2025/05/31;Coffee;Limpopo;Sarah;18;57.2
+T1151;2025/06/01;Coffee;Gauteng;Sarah;6;49.67
+T1152;2025/06/02;Coffee;Limpopo;John;3;46.07
+T1153;2025/06/03;Coffee;Limpopo;Alice;19;60.37
+T1154;2025/06/04;Juice;Western Cape;John;15;23.97
+T1155;2025/06/05;Coffee;Limpopo;Mary;5;26.37
+T1156;2025/06/06;Water;Western Cape;John;10;87.56
+T1157;2025/06/07;Snacks;Limpopo;John;7;95.15
+T1158;2025/06/08;Coffee;KwaZulu-Natal;Sarah;17;43.6
+T1159;2025/06/09;Juice;KwaZulu-Natal;Sarah;7;34.37
+T1160;2025/06/10;Juice;KwaZulu-Natal;Sarah;12;67.96
+T1161;2025/06/11;Coffee;Limpopo;Mary;17;46.79
+T1162;2025/06/12;Snacks;Western Cape;Sarah;13;12.28
+T1163;2025/06/13;Coffee;Western Cape;Alice;4;24.05
+T1164;2025/06/14;Juice;Limpopo;David;10;74.44
+T1165;2025/06/15;Tea;KwaZulu-Natal;Alice;3;69.3
+T1166;2025/06/16;Water;KwaZulu-Natal;Alice;9;12.44
+T1167;2025/06/17;Juice;Western Cape;Sarah;13;29.98
+T1168;2025/06/18;Coffee;KwaZulu-Natal;David;18;30.8
+T1169;2025/06/19;Water;Gauteng;David;15;70.47
+T1170;2025/06/20;Coffee;Western Cape;David;4;11.77
+T1171;2025/06/21;Coffee;KwaZulu-Natal;Mary;15;19.37
+T1172;2025/06/22;Tea;Western Cape;Sarah;2;81.99
+T1173;2025/06/23;Water;Gauteng;David;15;26.07
+T1174;2025/06/24;Water;Western Cape;Mary;8;68.75
+T1175;2025/06/25;Tea;Western Cape;John;8;31.44
+T1176;2025/06/26;Juice;Western Cape;John;17;18.95
+T1177;2025/06/27;Coffee;Western Cape;Mary;12;31.89
+T1178;2025/06/28;Snacks;Gauteng;Mary;19;75.0
+T1179;2025/06/29;Coffee;Limpopo;Sarah;10;87.01
+T1180;2025/06/30;Coffee;Western Cape;Sarah;9;84.72
+T1181;2025/07/01;Juice;Western Cape;John;5;45.75
+T1182;2025/07/02;Coffee;KwaZulu-Natal;David;6;70.13
+T1183;2025/07/03;Tea;Western Cape;John;2;28.45
+T1184;2025/07/04;Tea;KwaZulu-Natal;David;13;36.38
+T1185;2025/07/05;Water;Limpopo;David;6;90.67
+T1186;2025/07/06;Snacks;Gauteng;Sarah;5;11.17
+T1187;2025/07/07;Coffee;Gauteng;Alice;1;17.7
+T1188;2025/07/08;Coffee;Limpopo;Alice;6;28.71
+T1189;2025/07/09;Juice;Gauteng;Mary;6;12.39
+T1190;2025/07/10;Tea;Limpopo;Sarah;16;26.33
+T1191;2025/07/11;Snacks;Limpopo;David;4;62.47
+T1192;2025/07/12;Water;Limpopo;Alice;11;47.93
+T1193;2025/07/13;Tea;Gauteng;David;9;90.34
+T1194;2025/07/14;Water;KwaZulu-Natal;Alice;3;83.57
+T1195;2025/07/15;Juice;Limpopo;Alice;19;40.76
+T1196;2025/07/16;Juice;Western Cape;Alice;8;33.35
+T1197;2025/07/17;Coffee;Gauteng;Sarah;5;44.17
+T1198;2025/07/18;Snacks;Limpopo;John;4;63.13
+T1199;2025/07/19;Water;Limpopo;David;6;34.13
+T1200;2025/07/20;Tea;Western Cape;Sarah;2;66.17
+T1201;2025/07/21;Juice;KwaZulu-Natal;Sarah;11;46.85
+T1202;2025/07/22;Coffee;KwaZulu-Natal;Sarah;4;59.68
+T1203;2025/07/23;Coffee;KwaZulu-Natal;Sarah;15;49.25
+T1204;2025/07/24;Water;Limpopo;Sarah;6;36.5
+T1205;2025/07/25;Juice;Limpopo;Mary;17;95.36
+T1206;2025/07/26;Snacks;Limpopo;David;6;78.72
+T1207;2025/07/27;Juice;Gauteng;Sarah;19;22.61
+T1208;2025/07/28;Water;Western Cape;David;2;88.16
+T1209;2025/07/29;Water;Limpopo;Mary;15;53.87
+T1210;2025/07/30;Juice;Western Cape;Mary;11;90.51
+T1211;2025/07/31;Water;Western Cape;David;8;81.99
+T1212;2025/08/01;Juice;KwaZulu-Natal;Alice;19;48.27
+T1213;2025/08/02;Tea;Gauteng;John;13;12.02
+T1214;2025/08/03;Juice;Limpopo;Alice;12;34.18
+T1215;2025/08/04;Juice;KwaZulu-Natal;Alice;5;58.75
+T1216;2025/08/05;Water;KwaZulu-Natal;Alice;6;67.01
+T1217;2025/08/06;Water;Limpopo;Sarah;4;33.21
+T1218;2025/08/07;Coffee;Western Cape;Mary;19;22.54
+T1219;2025/08/08;Coffee;KwaZulu-Natal;Alice;1;85.14
+T1220;2025/08/09;Tea;Western Cape;Mary;17;98.6
+T1221;2025/08/10;Coffee;Gauteng;David;12;57.31
+T1222;2025/08/11;Juice;Western Cape;John;15;25.45
+T1223;2025/08/12;Water;Gauteng;David;1;34.51
+T1224;2025/08/13;Coffee;Western Cape;David;14;11.66
+T1225;2025/08/14;Coffee;KwaZulu-Natal;Sarah;6;92.29
+T1226;2025/08/15;Tea;KwaZulu-Natal;John;5;20.6
+T1227;2025/08/16;Tea;Gauteng;David;11;61.89
+T1228;2025/08/17;Juice;Limpopo;David;4;34.66
+T1229;2025/08/18;Water;Gauteng;John;13;59.88
+T1230;2025/08/19;Tea;Gauteng;John;11;68.63
+T1231;2025/08/20;Coffee;Western Cape;David;3;84.68
+T1232;2025/08/21;Water;Western Cape;John;1;28.58
+T1233;2025/08/22;Water;Gauteng;David;6;10.99
+T1234;2025/08/23;Coffee;KwaZulu-Natal;David;18;22.32
+T1235;2025/08/24;Tea;Western Cape;Sarah;10;91.0
+T1236;2025/08/25;Coffee;Limpopo;Alice;5;88.65
+T1237;2025/08/26;Water;Western Cape;David;10;63.77
+T1238;2025/08/27;Snacks;Western Cape;Mary;12;64.05
+T1239;2025/08/28;Snacks;Limpopo;Alice;2;69.85
+T1240;2025/08/29;Juice;Gauteng;Alice;13;25.78
+T1241;2025/08/30;Coffee;Limpopo;Alice;8;92.3
+T1242;2025/08/31;Coffee;Gauteng;Sarah;2;47.69
+T1243;2025/09/01;Juice;Gauteng;David;1;44.48
+T1244;2025/09/02;Juice;Gauteng;Sarah;5;56.7
+T1245;2025/09/03;Juice;Limpopo;David;9;14.23
+T1246;2025/09/04;Water;Gauteng;Sarah;17;24.97
+T1247;2025/09/05;Coffee;KwaZulu-Natal;Sarah;9;76.42
+T1248;2025/09/06;Water;Limpopo;Mary;11;17.45
+T1249;2025/09/07;Juice;KwaZulu-Natal;Sarah;15;64.28
